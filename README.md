@@ -65,7 +65,7 @@ An education degree slicer to filter dashboard insights based on employee educat
 
 ##  Dashboard Preview 
 
-https://github.com/itumaity29-eng/HR-ANALYTICS-DASHBOARD/blob/main/HR%20DATA.png
+https://github.com/itumaity29-eng/HR-ANALYTICS-DASHBOARD/blob/2803239fcca1b0e1aeb366d91f915941f81e024f/HR%20DATA.png
 
 
 
