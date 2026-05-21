@@ -2,6 +2,10 @@
 ## Objective 
 An interactive HR Analytics Dashboard build to help organization monitor workforce trends,employee attrition,demographics and job satisfaction metrics in a visually intuitive way.This dashboard provides actionable insights for HR teams and management to improve employee retention and workforce planning.
 
+## Raw Data 
+
+* https://github.com/itumaity29-eng/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Data.xlsx
+
 ## Features
 
 KPI cards:
