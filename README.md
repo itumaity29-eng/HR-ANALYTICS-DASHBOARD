@@ -4,7 +4,7 @@ An interactive HR Analytics Dashboard build to help organization monitor workfor
 
 ## Raw Data 
 
-* ![Preview](https://github.com/itumaity29-eng/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Data.xlsx)
+*[ file.xlsx](https://github.com/itumaity29-eng/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Data.xlsx)
 
 ## Features
 
